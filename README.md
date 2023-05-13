@@ -1,6 +1,6 @@
 # credit-risk-classification
 
-n this Challenge, you’ll use various techniques to train and evaluate a model based on loan risk. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
+In this Challenge, you’ll use various techniques to train and evaluate a model based on loan risk. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
 
 Before You Begin
 Create a new repository for this project called credit-risk-classification. Do not add this homework to an existing repository.

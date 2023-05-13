@@ -16,15 +16,14 @@ In step 3,(Split the data into training and testing sets) the code was examined,
 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
-Machine Learning Model 1:
-
-Description of Model 1 Accuracy, Precision, and Recall scores.
-Balanced Accuracy Score: 0.95
+Logistic Regression Model fitted with Imbalanced Data 
+Accuracy Score: 0.95
 Healthy loans (Class 0): Precision: 1.00 Recall: 0.99
 High-risk loans (Class 1): Precision: 0.85 Recall: 0.91
 
 Machine Learning Model 2:
-Description of Model 2 Accuracy, Precision, and Recall scores.
+Logistic Regression Model fitted with Balanced (oversampled) Data
+Accuracy, Precision, and Recall scores.
 Balanced Accuracy Score: 0.99
 Healthy loans (Class 0): Precision: 1.00 Recall: 0.99
 High-risk loans (Class 1): Precision: 0.84 Recall: 0.99
